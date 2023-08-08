@@ -1,6 +1,6 @@
 # SStrainer3D
 
-SStrainer3D is a tool set for deep-learning based semantic segmentation (SS) for a 3D volumes such as an X-ray CT image data. This tool set is available for training SS model and performing SS for 3D volumes. This tool set has been distributed as Python scripts, so you can edit any scripts as you want under the license.
+SStrainer3D is a tool set for deep-learning based semantic segmentation (SS) for 3D volumes such as X-ray CT image data. This tool set is available for training SS model and performing SS for 3D volumes. This tool set has been distributed as Python scripts, so you can edit any scripts as you want under the license.
 
 ![python](https://img.shields.io/badge/Python-3.10-lightgreen)
 ![developed_by](https://img.shields.io/badge/developed%20by-Shota_Teramoto-lightgreen)
